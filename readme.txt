@@ -1,8 +1,8 @@
 === Pay A Coffee Plugin for WordPress ===
 Contributors: Javier Santos
-Tags: comments, spam
+Tags: donation, paypal, bitcoin, money, html, code, Internet, currency
 Requires at least: 3.0
-Tested up to: 3.4
+Tested up to: 4.0.1
 Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
