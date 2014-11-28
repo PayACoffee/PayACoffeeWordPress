@@ -22,7 +22,7 @@
         $amount = get_option('payacoffee_amount');
         $currency = get_option('payacoffee_currency');
         $title = get_option('payacoffee_title');
-        $title = get_option('payacoffee_bitcoin');
+        $bitcoin = get_option('payacoffee_bitcoin');
     }
 
 ?>
