@@ -42,7 +42,7 @@ If you like using this plugin, then please leave us a good rating. If you have s
 
 == Installation ==
 
-1. Upload `payacoffee` directory to the `/wp-content/plugins/` directory
+1. Upload `pay-a-coffee` directory to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. Configure plugin (go to the Settings/Pay A Coffee)
 
