@@ -25,7 +25,7 @@ function insertPayACoffee() {
     
     if ($email != "") {
     ?>
-<meta value="payacoffee" email="<?php echo $email; ?>" amount="<?php echo $amount; ?>" currency="<?php echo $currency; ?>" title="<?php echo $title; ?>" bitcoin="<?php echo $bitcoin; ?>"  />
+<meta name="payacoffee" email="<?php echo $email; ?>" amount="<?php echo $amount; ?>" currency="<?php echo $currency; ?>" title="<?php echo $title; ?>" bitcoin="<?php echo $bitcoin; ?>" />
     <?php 
     }
 
