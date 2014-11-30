@@ -4,7 +4,7 @@
     Plugin URI: http://www.payacoffee.com
     Description: Redefining the donations over the Internet. Join the new standard for sending donations in an easy way.
     Author: PayACoffee.com
-    Version: 1.0
+    Version: 1.0.1
     Author URI: http://www.payacoffee.com
     */
 
@@ -21,11 +21,11 @@ function insertPayACoffee() {
     $amount = get_option('payacoffee_amount');
     $currency = get_option('payacoffee_currency');
     $title = get_option('payacoffee_title');
-    $title = get_option('payacoffee_bitcoin');
+    $bitcoin = get_option('payacoffee_bitcoin');
     
     if ($email != "") {
     ?>
-<meta name="payacoffee" email="<?php echo $email; ?>" amount="<?php echo $amount; ?>" currency="<?php echo $currency; ?>" title="<?php echo $title; ?>" bitcoin="<?php echo $bitcoin; ?>" />
+<meta value="payacoffee" email="<?php echo $email; ?>" amount="<?php echo $amount; ?>" currency="<?php echo $currency; ?>" title="<?php echo $title; ?>" bitcoin="<?php echo $bitcoin; ?>"  />
     <?php 
     }
 
