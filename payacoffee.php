@@ -4,7 +4,7 @@
     Plugin URI: http://www.payacoffee.com
     Description: Redefining the donations over the Internet. Join the new standard for sending donations in an easy way.
     Author: PayACoffee.com
-    Version: 1.0.1
+    Version: 1.0.2
     Author URI: http://www.payacoffee.com
     */
 
